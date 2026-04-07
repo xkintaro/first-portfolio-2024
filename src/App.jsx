@@ -139,7 +139,7 @@ function App() {
       image: basePath + "/thumb/kwnet.webp",
       video: basePath + "/video/kwnet.webm",
       url: "https://github.com/xkintaro/asp.net-mysql-website",
-      description: "Aynı ağa bağlı cihazlar için dosya paylaşımı",
+      description: "Lisede yaptığım ASP.NET Film Sitesi",
       date: "10 Eylül 2025",
       tags: ["ASP.NET", "MySql"]
     },
